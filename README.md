@@ -2,7 +2,8 @@
 <img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" width="50px">
 
 #### currently learning:
-- ![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim)
+- C++
+- SDL2
 
 #### languages / tools / environment: 
 ![C#](https://img.shields.io/badge/C%23-black?style=flat-square)
@@ -13,7 +14,7 @@
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
 ![Aseprite](https://img.shields.io/badge/Aseprite-black?logo=aseprite)
 
-![SublimeText](https://img.shields.io/badge/Sublime-black?style=flat-square&logo=sublimetext)
+![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
 #### stats
