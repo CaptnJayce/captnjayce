@@ -3,7 +3,6 @@
 
 #### currently learning:
 - C++
-- SDL2
 
 #### languages / tools / environment: 
 ![C#](https://img.shields.io/badge/C%23-black?style=flat-square)
@@ -11,7 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 
 ![Godot Engine](https://img.shields.io/badge/Godot-black?style=flat-square&logo=godot%20engine)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
 ![Aseprite](https://img.shields.io/badge/Aseprite-black?logo=aseprite)
 
 ![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim)
