@@ -2,7 +2,8 @@
 <img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" width="60px">
 
 #### currently learning:
-- [C++](https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=Cplusplus)
+- ![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=Cplusplus)
+
 
 #### languages / tools / environment: 
 ![C#](https://img.shields.io/badge/C%23-black?style=flat-square)
