@@ -20,7 +20,7 @@
 #### stats
 <div align ="left">
 <img src="https://github-readme-stats.vercel.app/api?username=CaptnJayce&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" alt="stats graph" height="210"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaptnJayce&locale=en&hide_title=false&layout=donut&langs_count=4&theme=midnight-purple&hide_border=true&order=2"alt="languages graph" height="210"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaptnJayce&locale=en&hide_title=false&layout=donut&langs_count=5&theme=midnight-purple&hide_border=true&order=2"alt="languages graph" height="210"/>
 </div>
 
 #### socials
