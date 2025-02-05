@@ -1,13 +1,7 @@
 ### Hello!👋🏻 I'm CaptnJayce. I'm a computer science graduate and aspiring game developer :)
 <img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" width="60px">
 
-#### currently learning:
-![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=Cplusplus)
-![Raylib](https://img.shields.io/badge/Raylib-black?style=flat-square&logo=raylib)
-
-
 #### languages / tools / environment: 
-![C#](https://img.shields.io/badge/C%23-black?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 
