@@ -18,6 +18,3 @@
 
 #### socials:
 [![ItchIO](https://img.shields.io/badge/ItchIO-black?style=flat-square&logo=itch.io)](https://captnjayce.itch.io/)
-[![Youtube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](www.youtube.com/@captnjayce)
-[![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)](https://discord.com/users/775894736623239260)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X)](https://twitter.com/https://x.com/CaptnJayce)
