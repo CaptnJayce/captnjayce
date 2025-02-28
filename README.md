@@ -1,12 +1,11 @@
 ### Hello!👋🏻 I'm CaptnJayce. I'm a computer science graduate and aspiring game developer :)
 <img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" width="60px">
 
-#### languages / tools / environment: 
+#### the method: 
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=Cplusplus)
 
-![Godot Engine](https://img.shields.io/badge/Godot-black?style=flat-square&logo=godot%20engine)
-![Aseprite](https://img.shields.io/badge/Aseprite-black?logo=aseprite)
+![Raylib](https://img.shields.io/badge/Raylib-black?style=flat-square&logo=raylib)
 
 ![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
