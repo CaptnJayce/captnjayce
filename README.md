@@ -12,7 +12,7 @@
 #
 
 <div align ="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=captnjayce&theme=rose_pine&hide_border=true&bg_color=00000000"alt="languages graph" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=captnjayce&theme=rose_pine&hide_border=true&exclude_repo=dotfiles&bg_color=00000000"alt="languages graph" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaptnJayce&locale=en&hide_title=false&hide_border=true&layout=compact&langs_count=6&theme=rose_pine&bg_color=00000000&order=2"alt="languages graph" height="200"/>
 </div>
 
