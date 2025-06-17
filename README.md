@@ -21,4 +21,6 @@
 [![ItchIO](https://img.shields.io/badge/ItchIO-black?style=flat-square&logo=itch.io)](https://captnjayce.itch.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jc444/)
 
+<p> Find out more about me here: <a href="https://captnjayce.github.io/">captns.logs</a></p> 
+
 <img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" width="60px">
