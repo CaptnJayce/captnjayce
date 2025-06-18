@@ -1,5 +1,5 @@
 <h3>
-  Hello!👋🏻 I'm CaptnJayce. I'm a computer science graduate and aspiring game developer
+  Hello!👋🏻 I'm CaptnJayce. I'm a computer science graduate and game developer.
 </h3>
 
 #
