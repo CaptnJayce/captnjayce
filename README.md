@@ -4,10 +4,13 @@
 
 #
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=witch-way&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/witch-way)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=captnjayce.github.io&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/captnjayce.github.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=falling-sand&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/falling-sand)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=quartermaster&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/quartermaster)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=captnjayce.github.io&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/captnjayce.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=witch-way&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/witch-way)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=infinite-caves&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/CaptnJayce/infinite-caves
+)
+
+
 
 #
 
