@@ -6,7 +6,7 @@
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=falling-sand&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/falling-sand)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=dimentia&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/dimentia)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=portfolio_website&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/portfolio_website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=portfolio-website&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/portfolio-website)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=infinite-caves&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/CaptnJayce/infinite-caves
 )
 
