@@ -1,12 +1,12 @@
 <h3>
-  Hello!👋🏻 I'm CaptnJayce. I'm a computer science graduate and game developer.
+  I'm CaptnJayce, a CS grad and game developer. 
 </h3>
 
 #
  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=falling-sand&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/falling-sand)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=dimentia&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/dimentia)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=parry-the-floor&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/CaptnJayce/parry-the-floor)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=infinite-caves&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/CaptnJayce/infinite-caves)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=falling-sand&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/falling-sand)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captnjayce&repo=portfolio-website&hide_border=true&theme=rose_pine&bg_color=00000000)](https://github.com/captnjayce/portfolio-website)
 
 #
@@ -19,8 +19,6 @@
 #
 
 [![ItchIO](https://img.shields.io/badge/ItchIO-black?style=flat-square&logo=itch.io)](https://captnjayce.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jc444/)
 
-<p> Find out more about me here: <a href="https://portfolio-website-six-omega-73.vercel.app/">captns.logs</a></p> 
-
+<p> obligatory portfolio website: <a href="https://portfolio-website-six-omega-73.vercel.app/">captns.logs</a></p> 
 <img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" width="60px">
