@@ -1,5 +1,5 @@
 <h3>
-  I'm CaptnJayce, a CS grad and game developer. 
+  Hello, I'm CaptnJayce. I mainly develop games alongside the occasional website. 
 </h3>
 
 #
