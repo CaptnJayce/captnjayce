@@ -5,4 +5,5 @@ I'm a BSc Computer Science graduate who likes to make games and websites.
 
 Currently studying for Salesforce Platform Administrator cert.
 
-More about me [here](https://portfolio-website-six-omega-73.vercel.app/) :)
+More about me [here](https://captnjayce.netlify.app/)\
+and future demos will be uploaded [here](https://captnjayce.itch.io/) :)
