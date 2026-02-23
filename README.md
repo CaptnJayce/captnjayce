@@ -9,4 +9,4 @@ You can read more about me [here](https://captnjayce.netlify.app/)\
 and future demos will be released on [itch.io](https://captnjayce.itch.io/) :)
 
 
-If my Github looks a little scarce, it's because I've migrated my games and webapps to [Gitlab](https://gitlab.com/CaptnJayce)
+If my Github looks a little scarce, it's because I mainly code on Gitlab now: [Gitlab](https://gitlab.com/CaptnJayce)
