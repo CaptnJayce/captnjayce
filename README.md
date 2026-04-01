@@ -1,12 +1,10 @@
 ### Hello!
 
 My name is Casey, more commonly known as CaptnJayce on the web.\
-I'm a BSc Computer Science graduate who likes to make games and websites. 
+I'm a BSc Computer Science graduate who likes to make websites and use AI. 
 
-Currently studying for Salesforce Platform Administrator cert.
+Currently working towards AI Engineering as a career path.
 
-You can read more about me [here](https://captnjayce.netlify.app/)\
-and future demos will be released on [itch.io](https://captnjayce.itch.io/) :)
+You can read more about me [here](https://captnjayce.netlify.app/)
 
-
-If my Github looks a little scarce, it's because I mainly code on Gitlab now: [Gitlab](https://gitlab.com/CaptnJayce)
+If my GitHub chart looks scarce, it's because I also use [GitLab](https://gitlab.com/CaptnJayce) for my personal projects
