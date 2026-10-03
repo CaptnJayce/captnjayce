@@ -1,3 +1,3 @@
-Hi there, I make games and yell at digital voids
+Probably yelling at a digital void
 
-Looking to play an incremental game? Check out my [Perpetua](https://captnjayce.itch.io/perpetua) demo on itch
+Check out my [itch](https://captnjayce.itch.io) pls <3 
